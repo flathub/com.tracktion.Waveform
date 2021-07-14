@@ -2,7 +2,7 @@
 <component type="desktop">
   <id>com.tracktion.Waveform</id>
   <name>Waveform11</name>
-  <summary>A digital audio workstation for all music creators</summary>
+  <summary>Digital audio workstation for all music creators</summary>
   <developer_name>Tracktion Software Corporation</developer_name>
   <icon type="remote">https://www.tracktion.com/wp/wp-content/uploads/2020/03/product-logo-waveform11_3x.png</icon>
   <url type="homepage">https://www.tracktion.com/</url>
@@ -54,7 +54,11 @@
   <releases>
     <release date="2021-05-20" version="11.5.17">
       <description>
-        <p><ul><li> - Plugins: Fixed crash loading jbridge plugins</li></ul></p>
+        <p>
+          <ul>
+            <li>Plugins: Fixed crash loading jbridge plugins</li>
+          </ul>
+        </p>
       </description>
     </release>
   </releases>
