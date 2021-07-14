@@ -24,6 +24,11 @@
     </p>
   </description>
 
+  <categories>
+    <category>Audio</category>
+    <category>AudioVideoEditing</category>
+  </categories>
+
   <requires>
     <display_length compare="ge">medium</display_length>
     <control>keyboard</control>
