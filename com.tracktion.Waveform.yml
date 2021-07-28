@@ -1,6 +1,6 @@
 id: com.tracktion.Waveform
 runtime: org.freedesktop.Platform
-runtime-version: '20.08'
+runtime-version: '21.08beta'
 sdk: org.freedesktop.Sdk
 tags:
   - proprietary
