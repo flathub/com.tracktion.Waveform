@@ -59,11 +59,9 @@
   <releases>
     <release date="2021-05-20" version="11.5.17">
       <description>
-        <p>
-          <ul>
-            <li>Plugins: Fixed crash loading jbridge plugins</li>
-          </ul>
-        </p>
+        <ul>
+          <li>Plugins: Fixed crash loading jbridge plugins</li>
+        </ul>
       </description>
     </release>
   </releases>
