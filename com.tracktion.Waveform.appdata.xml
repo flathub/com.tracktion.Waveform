@@ -57,6 +57,23 @@
   <content_rating type="oars-1.1" />
 
   <releases>
+    <release date="2021-07-15" version="11.5.18">
+      <description>
+        <ul>
+          <li>UI: When resizing clips, edit cursor snaps to end of clip</li>
+          <li>Linux: Sort font names in menu</li>
+          <li>Windows: Fixed keyboard shortcuts not working when MIDI Typing enabled</li>
+          <li>UI: Added Live Input Monitoring to track input context menu</li>
+          <li>UI: Fixed groove strength covering transpose button</li>
+          <li>UI: Fixed moving controller data</li>
+          <li>Windows: Fixed MP3 playback in browser</li>
+          <li>Windows: Fixed pitch shifting of clips with MP3 source files</li>
+          <li>Plugins: Fixed loading some Softube plugins on macOS</li>
+          <li>Plugins: Fixed an issue where iZotope plugin windows couldn't be dragged</li>
+        </ul>
+      </description>
+    </release>
+
     <release date="2021-05-20" version="11.5.17">
       <description>
         <ul>
