@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop">
   <id>com.tracktion.Waveform</id>
-  <name>Waveform11</name>
+  <name>Waveform12</name>
   <summary>Digital audio workstation for all music creators</summary>
   <developer_name>Tracktion Software Corporation</developer_name>
-  <icon type="remote">https://www.tracktion.com/wp/wp-content/uploads/2020/03/product-logo-waveform11_3x.png</icon>
+  <icon type="remote">https://www.tracktion.com/sites/default/files/img/products/waveform-free/logo-waveform-free2021.png</icon>
   <url type="homepage">https://www.tracktion.com/</url>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>LicenseRef-proprietary=https://marketplace.tracktion.com/terms-of-use</project_license>
@@ -37,50 +37,55 @@
 
   <screenshots>
     <screenshot type="default">
-      <caption>Modular mix screen</caption>
-      <image>https://www.tracktion.com/wp/wp-content/uploads/2017/03/waveform-screen-modular-mix.jpg</image>
+      <caption>Waveform main screen</caption>
+      <image>https://cdn.mos.cms.futurecdn.net/S3RiAQVCqszQ6ZqUipGNPc.jpg</image>
     </screenshot>
-    <screenshot type="default">
-      <caption>Collective</caption>
-      <image>https://www.tracktion.com/wp/wp-content/uploads/2017/03/waveform-screen-collective-hd.jpg</image>
+
+    <!-- from https://www.tracktion.com/products/waveform-pro-features -->
+    <screenshot>
+      <caption>Quick Action Bar</caption>
+      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro11/features/waveform11pro-feature-quick-action-window-v2.jpg</image>
     </screenshot>
-    <screenshot type="default">
-      <caption>Unlimited tracks</caption>
-      <image>https://www.tracktion.com/wp/wp-content/uploads/2017/03/waveform-screen-unlimited.jpg</image>
+    <screenshot>
+      <caption>New MIDI Tools</caption>
+      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro11/features/waveform11pro-feature-midi-tools.jpg</image>
     </screenshot>
-    <screenshot type="default">
-      <caption>Composition tools</caption>
-      <image>https://www.tracktion.com/wp/wp-content/uploads/2017/03/waveform-screen-composition-tools.jpg</image>
+    <screenshot>
+      <caption>Plugin Sandboxing</caption>
+      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro11/features/waveform11pro-feature-plugin-sandbox.jpg</image>
+    </screenshot>
+    <!-- from https://www.tracktion.com/products/waveform-pro-whats-new -->
+    <screenshot>
+      <caption>Advanced MIDI</caption>
+      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/new/w12-feature-midi-advanced.jpg</image>
+    </screenshot>
+    <screenshot>
+      <caption>New Drum Grid Mode</caption>
+      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/new/w12-feature-drum-grid.jpg</image>
+    </screenshot>
+    <screenshot>
+      <caption>Probability Added to Step Clips</caption>
+      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/new/w12-feature-step-probability.jpg</image>
+    </screenshot>
+    <screenshot>
+      <caption>MIDI Strum</caption>
+      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/new/w12-feature-midi-strum.jpg</image>
+    </screenshot>
+    <screenshot>
+      <caption>Rewritten Audio Engine</caption>
+      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/new/w12-feature-audio-engine.jpg</image>
+    </screenshot>
+    <!-- from https://www.tracktion.com/products/waveform-pro-content -->
+    <screenshot>
+      <caption>Subtractive</caption>
+      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro11/features/wpro-feature-subtractive.jpg</image>
+    </screenshot>
+    <screenshot>
+      <caption>Drum Sampler</caption>
+      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro11/features/waveform10-feature-drum-sampler-1.jpg</image>
     </screenshot>
   </screenshots>
 
   <content_rating type="oars-1.1" />
-
-  <releases>
-    <release date="2021-07-15" version="11.5.18">
-      <description>
-        <ul>
-          <li>UI: When resizing clips, edit cursor snaps to end of clip</li>
-          <li>Linux: Sort font names in menu</li>
-          <li>Windows: Fixed keyboard shortcuts not working when MIDI Typing enabled</li>
-          <li>UI: Added Live Input Monitoring to track input context menu</li>
-          <li>UI: Fixed groove strength covering transpose button</li>
-          <li>UI: Fixed moving controller data</li>
-          <li>Windows: Fixed MP3 playback in browser</li>
-          <li>Windows: Fixed pitch shifting of clips with MP3 source files</li>
-          <li>Plugins: Fixed loading some Softube plugins on macOS</li>
-          <li>Plugins: Fixed an issue where iZotope plugin windows couldn't be dragged</li>
-        </ul>
-      </description>
-    </release>
-
-    <release date="2021-05-20" version="11.5.17">
-      <description>
-        <ul>
-          <li>Plugins: Fixed crash loading jbridge plugins</li>
-        </ul>
-      </description>
-    </release>
-  </releases>
 
 </component>
