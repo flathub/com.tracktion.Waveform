@@ -105,16 +105,17 @@ modules:
       - install -Dm644 com.tracktion.Waveform.appdata.xml /app/share/appdata/com.tracktion.Waveform.appdata.xml
       - install -Dm755 apply_extra.sh /app/bin/apply_extra
       - install -Dm755 waveform.sh /app/bin/waveform
+      - install -Dm755 download-manager.sh /app/bin/tracktion-download-manager
     post-install:
       - install -d /app/extensions/Plugins
     sources:
       - type: extra-data
-        filename: waveform11.deb
+        filename: waveform12.deb
         only-arches:
           - x86_64
-        url: https://cdn.tracktion.com/file/tracktiondownload/waveform/11518/waveform_64bit_v11.5.18.deb
-        sha256: 911aa08887e0a6690f3b002e4aec618bf1f5f1ece089c468fb06d359e15ac1e5
-        size: 56707814
+        url: https://cdn.tracktion.com/file/tracktiondownload/w12/12053/waveform_64bit_v12.0.53.deb
+        sha256: ef33fe0b8626587be667cc0e1bf64dcffe56c868705112cae33d39d4893e9f63
+        size: 104772954
 
       - type: extra-data
         filename: tracktion-download-manager.deb
@@ -130,7 +131,12 @@ modules:
       - type: script
         dest-filename: waveform.sh
         commands:
-          - exec /app/extra/waveform11 $@
+          - exec /app/extra/waveform12 "$@"
+
+      - type: script
+        dest-filename: download-manager.sh
+        commands:
+          - exec /app/extra/tracktion-download-manager "$@"
 
       - type: file
         path: com.tracktion.Waveform.appdata.xml
