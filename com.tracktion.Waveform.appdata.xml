@@ -36,122 +36,51 @@
   </requires>
 
   <screenshots>
+    <screenshot type="default">
+      <caption>Waveform main screen</caption>
+      <image>https://cdn.mos.cms.futurecdn.net/S3RiAQVCqszQ6ZqUipGNPc.jpg</image>
+    </screenshot>
+
     <!-- from https://www.tracktion.com/products/waveform-pro-features -->
-    <screenshot type="default">
-      <caption>Studio photo</caption>
-      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/w12-hero-waveform-desk-window.jpg</image>
-    </screenshot>
-    <screenshot type="default">
-      <caption>Arranger Track</caption>
-      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro11/features/waveform11pro-feature-arranger-track.jpg</image>
-    </screenshot>
-    <screenshot type="default">
-      <caption>View Presets</caption>
-      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro11/features/waveform11pro-feature-view-presets-3view-v2_2x.png</image>
-    </screenshot>
-    <screenshot type="default">
+    <screenshot>
       <caption>Quick Action Bar</caption>
       <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro11/features/waveform11pro-feature-quick-action-window-v2.jpg</image>
     </screenshot>
-    <screenshot type="default">
-      <caption>Custom Layouts</caption>
-      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro11/features/waveform11pro-feature-short-custom-layout.jpg</image>
-    </screenshot>
-    <screenshot type="default">
-      <caption>Edit Overview</caption>
-      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro11/features/waveform11pro-feature-short-edit-overview.jpg</image>
-    </screenshot>
-    <screenshot type="default">
-      <caption>Audio Chord Track</caption>
-      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro11/features/waveform11pro-feature-short-chord-track.jpg</image>
-    </screenshot>
-    <screenshot type="default">
+    <screenshot>
       <caption>New MIDI Tools</caption>
       <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro11/features/waveform11pro-feature-midi-tools.jpg</image>
     </screenshot>
-    <screenshot type="default">
+    <screenshot>
       <caption>Plugin Sandboxing</caption>
       <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro11/features/waveform11pro-feature-plugin-sandbox.jpg</image>
     </screenshot>
     <!-- from https://www.tracktion.com/products/waveform-pro-whats-new -->
-    <screenshot type="default">
-      <caption>Fresh UI Makeover</caption>
-      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/new/w12-feature-back-ui.jpg</image>
-    </screenshot>
-    <screenshot type="default">
-      <caption>Improved Quick Actions</caption>
-      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/new/w12-feature-front-quickaction.jpg</image>
-    </screenshot>
-    <screenshot type="default">
-      <caption>Entirely New Browser</caption>
-      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/new/w12-feature-back-browser.jpg</image>
-    </screenshot>
-    <screenshot type="default">
-      <caption>Brand New BassOSC Instrument</caption>
-      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/new/w12-feature-bassosc-v2.jpg</image>
-    </screenshot>
-    <screenshot type="default">
-      <caption>Dual Guitar IR</caption>
-      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/new/w12-feature-macbook-guitar-ir-v2.jpg</image>
-    </screenshot>
-    <screenshot type="default">
-      <caption>Utility Plugins</caption>
-      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/new/w12-feature-unity.jpg</image>
-    </screenshot>
-    <screenshot type="default">
-      <caption>15 Refreshed Audio Effects</caption>
-      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/new/w12-feature-tall-15fx.jpg</image>
-    </screenshot>
-    <screenshot type="default">
+    <screenshot>
       <caption>Advanced MIDI</caption>
       <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/new/w12-feature-midi-advanced.jpg</image>
     </screenshot>
-    <screenshot type="default">
-      <caption>MIDI Randomisation</caption>
-      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/new/w12-feature-back-midi-random.jpg</image>
-    </screenshot>
-    <screenshot type="default">
+    <screenshot>
       <caption>New Drum Grid Mode</caption>
       <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/new/w12-feature-drum-grid.jpg</image>
     </screenshot>
-    <screenshot type="default">
+    <screenshot>
       <caption>Probability Added to Step Clips</caption>
       <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/new/w12-feature-step-probability.jpg</image>
     </screenshot>
-    <screenshot type="default">
+    <screenshot>
       <caption>MIDI Strum</caption>
       <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/new/w12-feature-midi-strum.jpg</image>
     </screenshot>
-    <screenshot type="default">
+    <screenshot>
       <caption>Rewritten Audio Engine</caption>
       <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/new/w12-feature-audio-engine.jpg</image>
     </screenshot>
-    <screenshot type="default">
-      <caption>Added Controller Support</caption>
-      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro12/new/w12-feature-controller-partners.jpg</image>
-    </screenshot>
     <!-- from https://www.tracktion.com/products/waveform-pro-content -->
-    <screenshot type="default">
-      <caption>DAW Essentials Collection</caption>
-      <image>https://www.tracktion.com/sites/default/files/img/products/dawessentials/daw-essentials-hero-light.png</image>
-    </screenshot>
-    <screenshot type="default">
-      <caption>Artisan Collection</caption>
-      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro11/content/waveform11pro-feature-artisan-collection.jpg</image>
-    </screenshot>
-    <screenshot type="default">
-      <caption>4OSC</caption>
-      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro11/content/waveform11pro-feature-4osc-v3.jpg</image>
-    </screenshot>
-    <screenshot type="default">
-      <caption>Elastique Pro</caption>
-      <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro11/features/feature-box-elastique.jpg</image>
-    </screenshot>
-    <screenshot type="default">
+    <screenshot>
       <caption>Subtractive</caption>
       <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro11/features/wpro-feature-subtractive.jpg</image>
     </screenshot>
-    <screenshot type="default">
+    <screenshot>
       <caption>Drum Sampler</caption>
       <image>https://www.tracktion.com/sites/default/files/img/products/waveform-pro11/features/waveform10-feature-drum-sampler-1.jpg</image>
     </screenshot>
