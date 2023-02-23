@@ -109,12 +109,12 @@ modules:
       - install -d /app/extensions/Plugins
     sources:
       - type: extra-data
-        filename: waveform11.deb
+        filename: waveform12.deb
         only-arches:
           - x86_64
-        url: https://cdn.tracktion.com/file/tracktiondownload/waveform/11518/waveform_64bit_v11.5.18.deb
-        sha256: 911aa08887e0a6690f3b002e4aec618bf1f5f1ece089c468fb06d359e15ac1e5
-        size: 56707814
+        url: https://cdn.tracktion.com/file/tracktiondownload/w12/1218/waveform_64bit_v12.1.8.deb
+        sha256: 1857acd228dd27245caec2bddbb9293b63cb742dac6b4aeef44cc305d5f94588
+        size: 104985254
 
       - type: extra-data
         filename: tracktion-download-manager.deb
@@ -130,7 +130,7 @@ modules:
       - type: script
         dest-filename: waveform.sh
         commands:
-          - exec /app/extra/waveform11 $@
+          - exec /app/extra/waveform12 $@
 
       - type: file
         path: com.tracktion.Waveform.appdata.xml

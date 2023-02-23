@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop">
   <id>com.tracktion.Waveform</id>
-  <name>Waveform11</name>
+  <name>Waveform12</name>
   <summary>Digital audio workstation for all music creators</summary>
   <developer_name>Tracktion Software Corporation</developer_name>
-  <icon type="remote">https://www.tracktion.com/wp/wp-content/uploads/2020/03/product-logo-waveform11_3x.png</icon>
+  <icon type="remote">https://www.tracktion.com/wp/wp-content/uploads/2020/03/product-logo-waveform12_3x.png</icon>
   <url type="homepage">https://www.tracktion.com/</url>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>LicenseRef-proprietary=https://marketplace.tracktion.com/terms-of-use</project_license>
