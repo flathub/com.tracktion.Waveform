@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<component type="desktop">
+<component type="desktop-application">
   <id>com.tracktion.Waveform</id>
   <name>Waveform11</name>
   <summary>Digital audio workstation for all music creators</summary>
@@ -11,16 +11,16 @@
 
   <description>
     <p>
+      **NOTE: This wrapper is not verified by, affiliated with, or supported
+      by Tracktion Software Corporation.**
+    </p>    
+    <p>
       Waveform is a rapidly evolving application specifically designed for
       the needs of modern music producers. Specializing in creative and
       inspirational workflows and avoiding features not explicitly needed
       to allow the app to remain surprisingly fun and intuitive. While
       other apps try to appeal to broad user groups, for example film score,
       live sound, performance – Waveform is laser focused on music production.
-    </p>
-    <p>
-      NOTE: This wrapper is not verified by, affiliated with, or supported
-      by Tracktion Software Corporation.
     </p>
   </description>
 
